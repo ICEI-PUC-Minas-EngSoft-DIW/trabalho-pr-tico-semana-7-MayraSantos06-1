@@ -4,12 +4,12 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome:Mayra Luíza Santos da Silva
+- Matricula:911963
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Console](public/Console.png)
 
 
 
